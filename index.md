@@ -7,7 +7,7 @@ This is a HEA funded camp aimed at senior cycle 2nd-level students, to introduce
 ### Morning Session 10am - 12pm. 
 In the first session, we’ll look at the components that make up “a computer” (hardware and software). The students will assemble a Raspberry Pi computer, install and operating system and get some introductory experience with Raspbian, a Linux distribution built specifically for the Pi.
 
-Once their machine is up and running and the students are comfortable with the environment, we’ll move onto some basic web development.
+Once their machine is up and running and the students are comfortable with the environment, we’ll move onto some basic web development, using HTML, CSS and JavaScript.
 
 #### Activities
 - [Getting Started With the Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5){:target=“_blank”}
@@ -20,11 +20,9 @@ This session will be chiefly concerned with programming, using the widely popula
 
 Students will first complete a Minecraft-themed Hour of Code. The [Hour of Code](https://hourofcode.com/ie){:target="_blank"} started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. The "Player" uses programming blocks and JavaScript to complete a series of puzzles and progress to the next level until completion.
 
-2. Complete the [Hour of Code exercise](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
-
 On completion of the Hour of Code the students will move Minecraft Pi, which is a special version of the game which comes preinstalled on Raspbian. We’ll use the Python language to “hack” into the game and have a bit of fun.
 
-####Activities
+#### Activities
 - [Hour of Code exercise](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
 - [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi){:target="_blank"}
 
