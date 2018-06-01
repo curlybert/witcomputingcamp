@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to the Computing Camp at Waterford Institute of Technology!
 
-You can use the [editor on GitHub](https://github.com/curlybert/witcomputingcamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a HEA funded camp aimed at senior cycle 2nd-level students, to introduce them to computer science and programming concepts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Day One
 
-### Markdown
+### Morning Session 10am - 12pm. 
+In the first session, we’ll look at the components that make up “a computer” (hardware and software). The students will assemble a Raspberry Pi computer, install and operating system and get some introductory experience with Raspbian, a Linux distribution built specifically for the Pi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once their machine is up and running and the students are comfortable with the environment, we’ll move onto some basic web development.
 
-```markdown
-Syntax highlighted code block
+#### Activities
+- [Getting Started With the Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5){:target=“_blank”}
+- [Basic HTML with Trinket](https://projects.raspberrypi.org/en/projects/happy-birthday){:target=“_blank”}
+- [Make a Cat Meme with JavaScript](https://projects.raspberrypi.org/en/projects/cat-meme-generator){:target=“_blank”}
 
-# Header 1
-## Header 2
-### Header 3
+### Afternoon Session 1pm - 3pm. 
+![Image](mc_landing_2017_wide.jpg)
+This session will be chiefly concerned with programming, using the widely popular game Minecraft as a backdrop for the activities.
 
-- Bulleted
-- List
+Students will first complete a Minecraft-themed Hour of Code. The [Hour of Code](https://hourofcode.com/ie){:target="_blank"} started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. The "Player" uses programming blocks and JavaScript to complete a series of puzzles and progress to the next level until completion.
 
-1. Numbered
-2. List
+2. Complete the [Hour of Code exercise](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
 
-**Bold** and _Italic_ and `Code` text
+On completion of the Hour of Code the students will move Minecraft Pi, which is a special version of the game which comes preinstalled on Raspbian. We’ll use the Python language to “hack” into the game and have a bit of fun.
 
-[Link](url) and ![Image](src)
-```
+####Activities
+- [Hour of Code exercise](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
+- [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi){:target="_blank"}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### More Info
+If you'd like more information about the computing courses available at WIT, we invite you to browse our [Department Website](https://www.wit.ie/schools/science/department_of_computing_maths){:target="_blank"}
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/curlybert/witcomputingcamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](poster_thumbnail_nidhi_erin.jpg)
