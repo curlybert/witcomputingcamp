@@ -4,7 +4,8 @@ This is a HEA funded camp aimed at senior cycle 2nd-level students, to introduce
 
 ## Day One
 
-### Morning Session 10am - 12pm. 
+### Morning Session 10am - 12pm.
+![Image](pi-labelled-names.png)
 In the first session, we’ll look at the components that make up “a computer” (hardware and software). The students will assemble a Raspberry Pi computer, install and operating system and get some introductory experience with Raspbian, a Linux distribution built specifically for the Pi.
 
 Once their machine is up and running and the students are comfortable with the environment, we’ll move onto some basic web development, using HTML, CSS and JavaScript.
