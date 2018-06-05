@@ -12,8 +12,8 @@ Once their machine is up and running and the students are comfortable with the e
 
 #### Activities
 - [Getting Started With the Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5){:target=“_blank”}
-- [Basic HTML with Trinket](https://projects.raspberrypi.org/en/projects/happy-birthday){:target=“_blank”}
-- [Make a Cat Meme with JavaScript](https://projects.raspberrypi.org/en/projects/cat-meme-generator){:target=“_blank”}
+- [Happy Birthday - Basic HTML with Trinket](https://projects.raspberrypi.org/en/projects/happy-birthday){:target=“_blank”}
+- [Cat Meme - JavaScript](https://projects.raspberrypi.org/en/projects/cat-meme-generator){:target=“_blank”}
 
 ### Afternoon Session 1pm - 3pm. 
 ![Image](mc_landing_2017_wide.jpg)
@@ -25,7 +25,7 @@ On completion of the Hour of Code the students will move Minecraft Pi, which is 
 
 #### Activities
 - [Hour of Code exercise](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
-- [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi){:target="_blank"}
+- [Getting Started with Minecraft Pi - Python](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi){:target="_blank"}
 
 ### More Info
 If you'd like more information about the computing courses available at WIT, we invite you to browse our [Department Website](https://www.wit.ie/schools/science/department_of_computing_maths){:target="_blank"}
